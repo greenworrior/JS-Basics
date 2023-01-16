@@ -1,0 +1,41 @@
+header {
+   background-size: 200px;
+    text-align: center;
+      font-size: 40px;
+       font-weight: bold;
+        color: white;
+         background-color: rgb(21, 21, 107);
+} 
+
+h2 {
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+
+#input-number {
+    color: blue;
+    border: 2px black;
+    background-size: 40px;
+} 
+
+#btn-add {
+    font-size: large;
+    background-color: blue;
+    border-radius: bold 2px;
+    margin-top: 20px;
+}
+
+#btn-subtract {
+    background-color: blue;
+    border-radius: bold 2px;
+    margin-top: 20px;
+}
+
+#current-calculation {
+    box-shadow: 12px chocolate;
+    font-size: 40px;
+    background-color: white;
+    background-size: 60px;
+}
